@@ -1,36 +1,34 @@
-🌦️ Weather App — React + Vite
-A beautiful and responsive Weather App built using React, Vite, and Material UI.
-It fetches real-time weather data and updates the UI with dynamic icons and background images based on current temperature and humidity.
+# 🌦️ Weather App
 
-🚀 Features
-📍 Enter city name to get live weather info
+A beautiful and responsive **Weather App** built with **React**, **Vite**, and **Material UI**.  
+Get real-time weather updates with dynamic backgrounds and icons that reflect the current weather conditions!
 
-🌡️ Displays temperature, feels like, min & max
+---
 
-💧 Shows humidity and weather description
+## 🚀 Features
 
-🖼️ Dynamic background images and weather icons (rainy, sunny, snowy)
+- 🔍 Search weather by city name  
+- 🌡️ Display temperature, feels like, min & max temps  
+- 💧 Show humidity and detailed weather description  
+- 🖼️ Dynamic background images for Rainy, Snowy, and Sunny weather  
+- ✨ Animated gradient heading for a smooth shining effect  
+- ⚡ Fast and lightweight using Vite  
+- 🎨 Clean UI powered by Material UI  
 
-✨ Gradient animated heading for smooth visual effect
+---
 
-⚡ Fast performance with Vite build tool
+## 🛠️ Tech Stack
 
-🛠 Tech Stack
-React (UI framework)
+- React  
+- Vite  
+- Material UI  
+- OpenWeatherMap API (or your chosen weather API)  
 
-Vite (lightning-fast build tool)
+---
 
-Material UI (UI components)
+## 📦 Installation & Setup
 
-OpenWeatherMap API (or your weather data source)
+1. **Clone the repository**
 
-
-📦 Installation
-
-git clone https://github.com/Pranay-Web0Dev/weather-app-React
-
-cd weather-app-React
-
-npm install
-
-npm run dev
+   ```bash
+   git clone https://github.com/Pranay-Web0Dev/weather-app-React.git

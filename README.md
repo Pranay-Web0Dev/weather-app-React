@@ -24,8 +24,13 @@ Material UI (UI components)
 
 OpenWeatherMap API (or your weather data source)
 
+
 📦 Installation
+
 git clone https://github.com/Pranay-Web0Dev/weather-app-React
+
 cd weather-app-React
+
 npm install
+
 npm run dev

@@ -39,8 +39,7 @@ Get real-time weather updates with dynamic backgrounds and icons that reflect th
 
 
 3.**Install dependencies**
-      ```bash
-      
+ ```bash
       npm install
 
 4. **Start the development server**
@@ -48,7 +47,7 @@ Get real-time weather updates with dynamic backgrounds and icons that reflect th
       npm run dev
 5. **Open your browser**
       ```bash
-      Visit http://localhost:5173 to see the app in action.
+       http://localhost:5173 
 
 
 

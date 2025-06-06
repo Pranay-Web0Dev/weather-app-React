@@ -26,6 +26,9 @@ Get real-time weather updates with dynamic backgrounds and icons that reflect th
 
 ---
 
+![Weather App Screenshot](./src/assets/Screenshot.png)
+
+
 ## 📦 Installation & Setup
 
 1. **Clone the repository**

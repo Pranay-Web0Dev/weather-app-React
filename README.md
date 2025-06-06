@@ -29,7 +29,6 @@ Get real-time weather updates with dynamic backgrounds and icons that reflect th
 ## 📦 Installation & Setup
 
 1. **Clone the repository**
-
    ```bash
    git clone https://github.com/Pranay-Web0Dev/weather-app-React.git
 
@@ -38,10 +37,10 @@ Get real-time weather updates with dynamic backgrounds and icons that reflect th
    cd weather-app-React
 
 
-3.**Install dependencies**
- ```bash
-      npm install
-
+3. **Install dependencies**
+      ```bash
+         npm i
+          
 4. **Start the development server**
       ```bash
       npm run dev

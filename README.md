@@ -1,17 +1,49 @@
-<<<<<<< HEAD
-# React + Vite
+# 🌦️ Weather App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A beautiful and responsive **Weather App** built with **React**, **Vite**, and **Material UI**.  
+Get real-time weather updates with dynamic backgrounds and icons that reflect the current weather conditions!
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🔍 Search weather by city name  
+- 🌡️ Display temperature, feels like, min & max temps  
+- 💧 Show humidity and detailed weather description  
+- 🖼️ Dynamic background images for Rainy, Snowy, and Sunny weather  
+- ✨ Animated gradient heading for a smooth shining effect  
+- ⚡ Fast and lightweight using Vite  
+- 🎨 Clean UI powered by Material UI  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# weather-app-React
-This is a responsive Weather App built using React, Vite, and Material UI. It fetches real-time weather data using a public API and displays temperature, humidity, weather description, and dynamic backgrounds and icons that change according to weather conditions like rain, snow, or sunshine.
->>>>>>> 75c0761d88ac16fc414709bfb3bd84bf51521ed4
+---
+
+## 🛠️ Tech Stack
+
+- React  
+- Vite  
+- Material UI  
+- OpenWeatherMap API (or your chosen weather API)  
+
+---
+
+## 📦 Installation & Setup
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Pranay-Web0Dev/weather-app-React.git
+
+2. **Navigate to the project folder**
+     ```bash
+   cd weather-app-React
+
+3. **Install dependencies**
+      ```bash
+         npm i
+                
+4. **Start the development server**
+      ```bash
+      npm run dev
+      
+5. **Open your browser**
+      ```bash
+       http://localhost:5173 

@@ -36,18 +36,14 @@ Get real-time weather updates with dynamic backgrounds and icons that reflect th
      ```bash
    cd weather-app-React
 
-
 3. **Install dependencies**
       ```bash
          npm i
-          
+                
 4. **Start the development server**
       ```bash
       npm run dev
+      
 5. **Open your browser**
       ```bash
        http://localhost:5173 
-
-
-
-
